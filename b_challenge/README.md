@@ -1,6 +1,8 @@
 Install: `yarn install`
-Run project: `node project-name/index`
-Test project: `yarn jest project-name/test`
+
+Run project: `node src/index`
+
+Run tests in a watch mode: `yarn test`
 
 Contains lodash 
 
