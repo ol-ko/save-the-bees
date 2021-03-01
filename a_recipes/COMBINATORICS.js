@@ -35,7 +35,7 @@ function combinations(n, lstRange) {
 
     // [m..n]
 
-    var fnMemoized = memoized(comb);
+    const fnMemoized = memoized(comb);
 
     return fnMemoized(n, lstRange);
 }

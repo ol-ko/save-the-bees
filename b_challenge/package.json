@@ -9,9 +9,12 @@
     "eslint-plugin-prettier": "^3.3.1",
     "jest": "^26.6.3",
     "lodash": "^4.17.21",
-    "prettier": "^2.2.1"
+    "md5": "^2.3.0",
+    "prettier": "^2.2.1",
+    "simulated-annealing": "^1.0.2"
   },
   "scripts": {
     "test": "jest --watchAll"
-  }
+  },
+  "type": "module"
 }
